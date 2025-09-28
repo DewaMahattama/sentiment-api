@@ -36,7 +36,7 @@ Model ini dapat diunduh langsung dari **Hugging Face Hub**.
    pip install -r requirements.txt
 4. **Ganti model_path**
    ```bash
-   model dapat diakses: yeaylow/analisis-berita-indobertp2
+   model dapat diakses: [yeaylow/analisis-berita-indobertp2](https://huggingface.co/yeaylow/analisis-berita-indobertp2)
 3. **Jalankan Rest API**
    ```bash
    python app.py
